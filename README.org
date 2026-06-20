@@ -1,0 +1,13 @@
+*** Ledger
+
+**** Description
+A cli driven financial logging utility
+
+**** Cli features
+- Get help about commands
+- Move funds between accounts
+- List account details
+- Create new accounts
+
+
+**** Roadmap
